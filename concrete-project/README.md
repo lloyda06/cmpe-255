@@ -5,6 +5,8 @@ This project utilized multiple classification approaches to identify whether or 
 ## Repository Info
 In this repo you will find Python Jupyter Notebooks, trained models and a small set of test data.
 Each folder represents the solution for each classifier.  In each folder there are 2 notebooks, one to show the work done to process the data and train the model and one test file which will load the trained model and predict the labels for a small set of test data (this is the recommended notebook to run)
+
+Link to the dataset: https://digitalcommons.usu.edu/all_datasets/48/
 # SVM
 * SVM_PreTrained_Test.ipynb
   * This notebook shows the work done to train the model on the full dataset
