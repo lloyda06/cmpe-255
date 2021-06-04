@@ -10,7 +10,7 @@ Link to the dataset: https://digitalcommons.usu.edu/all_datasets/48/
 # SVM
 * SVM_PreTrained_Test.ipynb
   * This notebook shows the work done to train the model on the full dataset
-* SVM_Full_Train.ipynb
+* SVM_0_1.ipynb
   * This notebook runs the trained model on a small set of test data
 # CNN
 * CNN_0_1.ipynb
